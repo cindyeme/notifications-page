@@ -22,8 +22,8 @@ function App() {
   return (
     <>
       <main className="App bg-neutral-100 w-full z-10 md:py-16">
-        <div className="max-w-2xl mx-auto h-full overflow-y-auto relative bg-white rounded-lg px-4 md:px-6 py-6 shadow">
-          <div className="flex flex-col space-y-3">
+        <div className="max-w-2xl mx-auto h-full overflow-y-auto relative bg-white rounded-lg px-4 md:px-6 py-6 ">
+          <div className="flex flex-col space-y-3.5">
             <div className="flex items-center justify-between pb-4">
               <div className="flex items-center space-x-3">
                 <h3 className="text-[1.2rem] md:text-[1.4rem] font-bold text-neutral-600">

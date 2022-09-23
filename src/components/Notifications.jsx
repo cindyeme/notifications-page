@@ -15,8 +15,8 @@ const SingleNotification = ({
   return (
     <div
       className={`${
-        unread && "bg-neutral-100 border border-neutral-200"
-      }  rounded-md px-3 md:px-5 py-3`}
+        unread && "bg-neutral-100 border border-neutral-100"
+      }  rounded-md px-3 md:px-5 py-3.5`}
     >
       <div className={`${piComment && "flex justify-between"}`}>
         <div>
@@ -36,7 +36,7 @@ const SingleNotification = ({
               }  single_content`}
             >
               <div>
-                <a href="http://" className="user md:text-base !text-sm">
+                <a href="http://" className="user md:!text-[1rem] !text-sm">
                   {notifier}
                 </a>
                 <span className="neutral mx-1.5">{event}</span>
