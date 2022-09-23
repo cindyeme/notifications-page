@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub URL here](https://github.com/cindyeme/notifications-page)
-- Live Site URL: [Add live site URL here](https://cindyeme-notifications.netlify.app/)
+- Live Site URL: [Live site URL here](https://cindyeme-notifications.netlify.app/)
 
 ## My process
 
