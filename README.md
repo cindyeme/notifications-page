@@ -30,8 +30,9 @@ Users should be able to:
 ### Screenshot
 
 ![Design design](./screenshots/desktop-design.jfif)
-![Mark-all-read](./screenshots/all-read-design.jfif)
+![Desktop-mark-all-read](./screenshots/all-read-design.jfif)
 ![Mobile design](./screenshots/mobile-design.jfif)
+![Mobile-mark-all-read](./screenshots/mobile-mark.jfif)
 
 
 ### Links
