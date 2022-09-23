@@ -36,12 +36,12 @@ const SingleNotification = ({
               }  single_content`}
             >
               <div>
-                <a href="http://" className="user md:!text-[1rem] !text-sm">
+                <a href="https://cindyeme-notifications.netlify.app/" className="user md:!text-[1rem] !text-sm">
                   {notifier}
                 </a>
                 <span className="neutral mx-1.5">{event}</span>
                 <a
-                  href="http://"
+                  href="https://cindyeme-notifications.netlify.app/"
                   className={`${
                     group ? "text-blue" : "text-neutral-500"
                   } font-bold hover:text-blue`}
